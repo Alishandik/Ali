@@ -1,0 +1,4 @@
+print="privet"
+name(print)
+
+
